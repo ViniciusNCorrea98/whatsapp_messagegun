@@ -1,8 +1,8 @@
 import pyautogui as spam
 import time 
 
-limite_msg = input("Enter n de msgs:");
-msg = input('Coloque a msg:');
+limite_msg = input("Numero de mensagens:");
+msg = input('Coloque a mensagem:');
 
 i = 0
 
